@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfólio de Projetos de Vinícius Zonaro Chimello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuszc/portfolio.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Vinicius Zonaro Chimello <vinicius@combodigital.net> (http://combodigital.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciuszc/portfolio/issues"
+  },
+  "homepage": "https://github.com/viniciuszc/portfolio#readme"
+}
